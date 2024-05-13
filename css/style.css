@@ -207,7 +207,7 @@ Código para el photography.html
 /*
 Código para el contact.html
 */
-.form-contacto{
+.form-contactos{
     display: flex;
     flex-direction: column;
     align-items: center;
