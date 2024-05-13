@@ -204,3 +204,34 @@ Código para el photography.html
 .photography-img:hover .overlay{
     opacity: 1;
 }
+/*
+Código para el contact.html
+*/
+.form-contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 4rem;
+}
+.form-contacto button{
+    margin: 20px;
+    padding: 10px;
+    background-color: #B9E11C;
+    border-style: none;
+    padding: 1em 3em;
+    border-radius: 20px;
+}
+.form-contacto input{
+    margin: 5px;
+    padding: 1ch 25rem 2em;
+    border-style: none;
+    border-radius: 20px;
+    background-color: #bae11c8f;
+}
+.form-contacto input[type="text"]{
+    padding: 1ch 25rem 10em;
+}
+.form-contacto h3{
+    text-align: left;
+}
